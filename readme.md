@@ -134,6 +134,3 @@ Response (200):
 - Multer (File uploads)  
 
 ---
-
-## 👨‍💻 Author
-API designed for **Nudge Creation Page** wireframe documentation exercise.
